@@ -1,0 +1,10 @@
+AttemptId|bigint
+AtomId|bigint
+SortOrder| int
+CSV| varchar(255)
+IntResponse| bigint
+TextResponse|nvarchar(max)
+FileSetId| bigint
+IsCorrect| bit
+TemplateId|bigint
+TemplateVersionId|bigint

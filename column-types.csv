@@ -1,0 +1,13 @@
+ActivityId|bigint
+OrgUnitId|int
+UserId|int
+LearningObjectId|bigint
+IsAchieved|bit
+PercentAchieved|numeric(19,9)
+RubricScore|numeric(19,9)
+RubricLevelAchieved|nvarchar(256)
+RubricId|bigint
+RubricCriterionId|bigint
+AchievedDate|datetime
+
+
